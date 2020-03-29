@@ -6,7 +6,7 @@
 yarn
 ```
 
-##Enviromental Variables
+## Enviromental Variables
 
 Copy enviromental file and change it as needed
 
